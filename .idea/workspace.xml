@@ -14,8 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a11fd010-c715-4187-887f-d2a5b151c604" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prototypes/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prototypes/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/prototypes/mod.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +64,23 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -82,7 +98,13 @@
       <workItem from="1596907813659" duration="5504000" />
       <workItem from="1596967966970" duration="1499000" />
       <workItem from="1596969822953" duration="858000" />
-      <workItem from="1596970702169" duration="355000" />
+      <workItem from="1596970702169" duration="4309000" />
+      <workItem from="1596979167146" duration="790000" />
+      <workItem from="1597161276623" duration="2584000" />
+      <workItem from="1597230031557" duration="3414000" />
+      <workItem from="1597239967109" duration="81000" />
+      <workItem from="1597240067313" duration="2421000" />
+      <workItem from="1597320746237" duration="956000" />
     </task>
     <servers />
   </component>
@@ -102,6 +124,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="747" y="324" key="FileChooserDialogImpl" timestamp="1597240408747">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="324" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597240408747" />
     <state width="1872" height="288" key="GridCell.Tab.0.bottom" timestamp="1596970680507">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -118,5 +144,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1872" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596970680507" />
+    <state x="446" y="201" key="SettingsEditor" timestamp="1597240916972">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="446" y="201" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597240916972" />
   </component>
 </project>
